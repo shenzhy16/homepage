@@ -7,9 +7,9 @@
 
 ### Field of research: 
 
-- Dynamical system
-- Stochastic partial differential equation
-- Rough Path theory
+- Dynamical System
+- Stochastic Partial Differential Equation
+- Rough Path Theory
 
 
 ### Lecture Notes
