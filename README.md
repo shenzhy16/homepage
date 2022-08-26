@@ -1,4 +1,4 @@
-## Zhuoyang Shen's homepage
+## Zhuoyang Shen's Homepage
 
 ### Personal information
 
@@ -18,8 +18,8 @@
 
 ### Websites
 
-- http://blog.shenzy.cn
-- http://math.shenzy.cn
+- [http://blog.shenzy.cn](http://blog.shenzy.cn "personal blog")
+- [http://math.shenzy.cn](http://math.shenzy.cn "personal math wiki")
 
 ### Background
 
