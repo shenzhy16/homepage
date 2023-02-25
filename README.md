@@ -10,6 +10,7 @@
 - Dynamical System
 - Stochastic Partial Differential Equation
 - Rough Path Theory
+- Ergodic Theory
 
 
 ### Lecture Notes
@@ -18,8 +19,9 @@
 
 ### Websites
 
-- [http://blog.shenzy.cn](http://blog.shenzy.cn "personal blog")
-- [http://math.shenzy.cn](http://math.shenzy.cn "personal math wiki")
+- [blog](http://blog.shenzhy.cn)
+- [mathematic wiki](http://math.shenzhy.cn)
+- [personal library including some notes](http://books.shenzhy.cn)
 
 ### Background
 
